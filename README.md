@@ -1,4 +1,3 @@
-Project submission1 Dicoding Academy class React Expert
+submission1 Dicoding Academy React Expert
 
-
-stack: React, Redux, CSS
+stack: Javascript, React, Redux, CSS
